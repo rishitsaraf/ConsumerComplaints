@@ -20,7 +20,7 @@
   </li>
   <li><a href="#roadmap">Roadmap</a></li>
   <li><a href="#contact">Contact</a></li>
-  <li><a href="#acknowledgments">Acknowledgments</a></li>
+  <li><a href="#Demo">Demo</a></li>
 </ol>
 
 <!-- ABOUT THE PROJECT -->
@@ -120,4 +120,5 @@ streamlit run app.py
 
 Your Name - [@rishitsaraf](https://github.com/rishitsaraf) - rishitsaraf24@gmail.com
 
+## Demo
 <a href = "https://vimeo.com/940595873?share=copy"> View a Demo</a>: https://vimeo.com/940595873?share=copy
