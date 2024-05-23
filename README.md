@@ -107,12 +107,8 @@ streamlit run app.py
 - [x] Conduct Benchmarking and Comparative Analysis
   - [x] Company Performance Analysis
   - [x] Product Type Analysis
-- [ ] Conduct extensive testing
-  - [ ] User feedback and iteration
-  - [ ] Performance benchmarking
-- [ ] Deploy the application
-  - [ ] Cloud deployment
-  - [ ] Scalability enhancements
+- [x] Deploy the application
+  - [x] Cloud deployment
 - [ ] Future improvements
   - [ ] Advanced NLP features
   - [ ] Multi-language support
